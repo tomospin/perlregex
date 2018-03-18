@@ -1,6 +1,6 @@
 # A simple program to move and change file path/name for a purpose
 # Written by Sirapat Na Ranong 57070503438
-# 18 March 2018
+# 18 March 2018 #
 use File::Path qw(make_path);
 use File::Copy;
 
