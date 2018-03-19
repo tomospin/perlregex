@@ -1,6 +1,6 @@
 # perlregex
 
-Simple perl script involves regular expression
+Simple perl script involves regular expression.
 
 A mini project on System Admin course (2018)
 
